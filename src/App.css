@@ -1,0 +1,23 @@
+* {
+  font-family: 'Nunito', 'Roboto Mono', monospace;
+}
+
+html {
+  /* background-color: #131313; */
+	background-image: url("https://i.imgur.com/XuFxkfa.jpg");
+	background-size: contain;
+	background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+	background-color: #000;
+}
+
+:root {
+  --color-p: #b39ddb;
+  --color-g: #89c4a7;
+  --color-y: #d6c17a;
+}
+
+li {
+  list-style-type: none;
+}

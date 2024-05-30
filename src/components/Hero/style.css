@@ -1,0 +1,8 @@
+.hero .title, 
+.hero .nickname,
+.hero .subtitle {
+  color: #d6c17a;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
